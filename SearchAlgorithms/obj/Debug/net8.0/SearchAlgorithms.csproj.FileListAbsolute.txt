@@ -1,0 +1,14 @@
+/Users/samdrage/Documents/Tutoring/CompSci/C#/search_algorithms/SearchAlgorithms/bin/Debug/net8.0/SearchAlgorithms
+/Users/samdrage/Documents/Tutoring/CompSci/C#/search_algorithms/SearchAlgorithms/bin/Debug/net8.0/SearchAlgorithms.deps.json
+/Users/samdrage/Documents/Tutoring/CompSci/C#/search_algorithms/SearchAlgorithms/bin/Debug/net8.0/SearchAlgorithms.runtimeconfig.json
+/Users/samdrage/Documents/Tutoring/CompSci/C#/search_algorithms/SearchAlgorithms/bin/Debug/net8.0/SearchAlgorithms.dll
+/Users/samdrage/Documents/Tutoring/CompSci/C#/search_algorithms/SearchAlgorithms/bin/Debug/net8.0/SearchAlgorithms.pdb
+/Users/samdrage/Documents/Tutoring/CompSci/C#/search_algorithms/SearchAlgorithms/obj/Debug/net8.0/SearchAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samdrage/Documents/Tutoring/CompSci/C#/search_algorithms/SearchAlgorithms/obj/Debug/net8.0/SearchAlgorithms.AssemblyInfoInputs.cache
+/Users/samdrage/Documents/Tutoring/CompSci/C#/search_algorithms/SearchAlgorithms/obj/Debug/net8.0/SearchAlgorithms.AssemblyInfo.cs
+/Users/samdrage/Documents/Tutoring/CompSci/C#/search_algorithms/SearchAlgorithms/obj/Debug/net8.0/SearchAlgorithms.csproj.CoreCompileInputs.cache
+/Users/samdrage/Documents/Tutoring/CompSci/C#/search_algorithms/SearchAlgorithms/obj/Debug/net8.0/SearchAlgorithms.dll
+/Users/samdrage/Documents/Tutoring/CompSci/C#/search_algorithms/SearchAlgorithms/obj/Debug/net8.0/refint/SearchAlgorithms.dll
+/Users/samdrage/Documents/Tutoring/CompSci/C#/search_algorithms/SearchAlgorithms/obj/Debug/net8.0/SearchAlgorithms.pdb
+/Users/samdrage/Documents/Tutoring/CompSci/C#/search_algorithms/SearchAlgorithms/obj/Debug/net8.0/SearchAlgorithms.genruntimeconfig.cache
+/Users/samdrage/Documents/Tutoring/CompSci/C#/search_algorithms/SearchAlgorithms/obj/Debug/net8.0/ref/SearchAlgorithms.dll
